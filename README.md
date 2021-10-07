@@ -1,6 +1,6 @@
 # GOT FANDOM QUIZ
- A scoring quiz about game of thrones series #
+ A scoring quiz about game of thrones series
+ #
 DEMO -
 #
-
-![](images/GOTquiz.mp4)
+![](images/GOTquiz.gif)
