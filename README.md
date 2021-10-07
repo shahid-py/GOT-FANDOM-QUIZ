@@ -3,4 +3,4 @@
  #
 DEMO -
 #
-![](images/GOTquiz.mp4)
+![](video/GOTquiz.mp4)
